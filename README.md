@@ -1,6 +1,6 @@
 # 📚 Book-Ecommerce
 
-![Book-Ecommerce](https://via.placeholder.com/150)
+![Book-Ecommerce]([https://via.placeholder.com/150](https://www.servcorp.co.uk/media/34561/e-commerce-img.jpeg?format=webp&quality=80&width=688))
 
 A scalable e-commerce platform for buying books online, developed using ASP.NET MVC. This platform includes user authentication, product management, order management, and integration with Stripe for online transactions. It supports four types of users: Admin, Company, and Customer.
 
